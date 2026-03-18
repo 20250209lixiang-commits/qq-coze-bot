@@ -1,0 +1,5 @@
+qq-coze-bot/
+├── api/
+│   └── webhook.js        # 主要的机器人逻辑
+├── vercel.json           # Vercel配置文件
+└── package.json          # 项目依赖
